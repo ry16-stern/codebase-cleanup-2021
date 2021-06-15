@@ -60,3 +60,4 @@ Running all tests:
 ```sh
 pytest
 ```
+Test upload
